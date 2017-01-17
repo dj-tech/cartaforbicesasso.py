@@ -57,7 +57,7 @@ class Example(QtGui.QMainWindow):
     
   def infoout(self):   
     window = QtGui.QMessageBox(self)
-    window.setText('< Developement by Marco Schettini >  ')
+    window.setText('< Developement by Marco Schettini and Dj-Tech>  ')
     window.icon()
     window.exec_()
     
